@@ -8,7 +8,7 @@ To study and verify the truth table of logic gates in Quartus II using Verilog p
 
 Software – Quartus prime 
 
-**Theory**
+**Theory:**
 
 Introduction Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
 
@@ -68,18 +68,15 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
  ## Developed by: RAJARAMAN V
  ## RegisterNumber: 212223110038
- ![image](https://github.com/Rajaraman77/study-of-basic-gates/assets/150319383/f8244568-cff3-44d4-87c4-817a8fcd76ce)
+ ![image](https://github.com/Rajaraman77/study-of-basic-gates/assets/150319383/f8244568-cff3-44d4-87c4-817a8fcd76ce) 
+**Logic symbol & Truthtable:**
 
- 
-**Logic symbol & Truthtable**
 ![image](https://github.com/Rajaraman77/study-of-basic-gates/assets/150319383/b6e01dd3-8a48-42af-a7b7-aac29effbd14)
-
-
 **RTL realization Output:** 
+
 ![image](https://github.com/Rajaraman77/study-of-basic-gates/assets/150319383/00775bc4-d383-4d30-b0dd-98d554024756)
+**RTL:**
 
-
-**RTL**
 ![image](https://github.com/Rajaraman77/study-of-basic-gates/assets/150319383/3fbf7107-6739-4c48-b500-beacf173a122)
 
 
